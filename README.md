@@ -1,6 +1,6 @@
 # WordPress Tooltips Ultimate RU
 
-Подключение русификации для плагина WordPress Tooltips Ultimate
+Русификация для плагина WordPress Tooltips Ultimate
 
 Версия: 2.27
 
