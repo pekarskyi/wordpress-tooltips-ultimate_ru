@@ -1,0 +1,1654 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress Tooltips Ultimate v2.27\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/cmb2\n"
+"POT-Creation-Date: 2016-06-27 17:01:22+00:00\n"
+"PO-Revision-Date: 2020-11-29 21:15+0200\n"
+"Last-Translator: Николай Пекарский <dizer7@gmail.com>\n"
+"Language-Team: Николай Пекарский <dizer7@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Language: ru_RU\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ default
+#: includes/backend/tooltip-selectors/class-wpcmtt-grid-columns.php:114
+msgid "(no Description)"
+msgstr "(без описания)"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:412
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:434
+msgid "Add Another Hotspot Tooltip"
+msgstr "Добавить подсказку"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:153
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:202
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:487
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:511
+#: includes/common/class-wpcmtt-init.php:113
+#: includes/common/class-wpcmtt-init.php:137
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:526
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:552
+msgid "Add Image"
+msgstr "Добавить изображение"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:84
+msgid "Add New Hotspot"
+msgstr "Добавить новый маркер"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/wpcmtt-helpers.php:29 includes/common/wpcmtt-helpers.php:30
+msgid "Add New Tooltip"
+msgstr "Добавить подсказку"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/wpcmtt-helpers.php:54
+msgid "Add New Tooltip Style"
+msgstr "Добавить новый стиль"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/wpcmtt-helpers.php:51
+msgid "All Tooltip Styles"
+msgstr "Все стили подсказки"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:311
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:367
+msgid "Anchor Background"
+msgstr "Фон якоря"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:297
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:353
+msgid "Anchor cursor"
+msgstr "Курсор для якоря"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:310
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:366
+msgid "Anchor font"
+msgstr "Шрифт якоря"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:312
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:368
+msgid "Anchor padding"
+msgstr "Внутренний отступ якоря"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:296
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:352
+msgid "Anchor Styling"
+msgstr "Стиль якоря"
+
+# @ codemine-tooltip
+#: includes/common/class-wpcmtt-dependencies.php:44
+msgid "and"
+msgstr "и"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:390
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:447
+msgid "Animations"
+msgstr "Анимации"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:472
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:529
+msgid "API Key"
+msgstr "Ключ API"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:227
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:244
+msgid "Arrow"
+msgstr "Стрелка"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:266
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:283
+msgid "Arrow Height"
+msgstr "Высота стрелки"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:236
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:253
+msgid "Arrow Position"
+msgstr "Положение стрелки"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:250
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:267
+msgid "Arrow Width"
+msgstr "Ширина стрелки"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:540
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:597
+msgid "Auto Play"
+msgstr "Автовоспроизведение"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/class-wpcmtt-init.php:52
+msgid "Backend"
+msgstr "В админке"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/class-wpcmtt-lov.php:111
+msgid "Bottom"
+msgstr "Внизу"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:346
+#: includes/common/class-wpcmtt-lov.php:94
+msgid "Bottom Center"
+msgstr "Снизу по центру"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:345
+#: includes/common/class-wpcmtt-lov.php:93
+msgid "Bottom Left"
+msgstr "Снизу слева"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:347
+#: includes/common/class-wpcmtt-lov.php:95
+msgid "Bottom Right"
+msgstr "Снизу справа"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/class-wpcmtt-lov.php:69
+msgid "Capitalize"
+msgstr "Заглавные"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/class-wpcmtt-lov.php:60
+msgid "Cell"
+msgstr "Ячейка"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/class-wpcmtt-lov.php:31
+#: includes/common/class-wpcmtt-lov.php:102
+#: includes/common/class-wpcmtt-lov.php:110
+msgid "Center"
+msgstr "Центр"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/class-wpcmtt-lov.php:91
+msgid "Center Center"
+msgstr "В центре по центру"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/class-wpcmtt-lov.php:90
+msgid "Center Left"
+msgstr "По центру слева"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/class-wpcmtt-lov.php:92
+msgid "Center Right"
+msgstr "По центру справа"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:319
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:375
+msgid "Click"
+msgstr "При клике"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:334
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:390
+msgid "Click elsewhere"
+msgstr "Нажмите в другом месте"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:334
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:390
+msgid "Click on anchor"
+msgstr "Нажмите на якорь"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:282
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:299
+msgid "Close Button"
+msgstr "Кнопка Закрыть"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:293
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:310
+msgid "Close Button Background"
+msgstr "Фон кнопки Закрыть"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:294
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:311
+msgid "Close Button Color"
+msgstr "Цвет текста кнопки Закрыть"
+
+# @ cmb2
+#. Author of the plugin/theme
+#. translators: plugin header field 'Author'
+#: wordpress-tooltips-ultimate.php:0
+msgid "codemine"
+msgstr "codemine"
+
+# @ codemine-tooltip
+#: includes/common/class-wpcmtt-dependencies.php:30
+#, php-format
+msgid "Codemine Tooltip is enabled but not effective. It is not compatible with  <a href=\"%s\" target=\"_blank\">Woocommerce</a> versions prior %s."
+msgstr "Подсказка от Codemine включена, но не действует. Она не совместима с версиями <a href=\"%s\" target=\"_blank\">Woocommerce</a> до %s."
+
+# @ codemine-tooltip
+#: includes/common/class-wpcmtt-dependencies.php:52
+#, php-format
+msgid "Codemine Tooltip is enabled but not effective. It requires %s in order to work."
+msgstr "Подсказка от Codemine включена, но не действует. Для ее работы необходим %s."
+
+# @ default
+#: includes/backend/customize-tooltip-style/class-wpcmtt-renderers.php:365
+msgid "Color"
+msgstr "Цвет"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/class-wpcmtt-lov.php:80
+msgid "Comic 1"
+msgstr "Комикс 1"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/class-wpcmtt-lov.php:81
+msgid "Comic 2"
+msgstr "Комикс 2"
+
+# @ cmb2
+#. Description of the plugin/theme
+#. translators: plugin header field 'Description'
+#: wordpress-tooltips-ultimate.php:0
+msgid "Create WordPress Tooltips"
+msgstr "Создание всплывающих подсказок в WordPress"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/class-wpcmtt-lov.php:58
+msgid "Crosshair"
+msgstr "Перекрестье"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/class-wpcmtt-init.php:58
+msgid "CSS Selector"
+msgstr "Селектор CSS"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/tooltip-selectors/class-wpcmtt-grid-columns.php:142
+msgid "Css Selector"
+msgstr "Селектор CSS"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:351
+msgid "Custom"
+msgstr "Произвольный"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:175
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:183
+msgid "Custom image"
+msgstr "Произвольное изображение"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/class-wpcmtt-lov.php:14
+msgid "Dashed"
+msgstr "Штриховой пунктир"
+
+# @ default
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:122
+#: includes/backend/tooltip-selectors/class-wpcmtt-grid-columns.php:145
+msgid "Date"
+msgstr "Дата"
+
+# @ cmb2
+# @ wordpress-tooltips-ultimate
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:182
+#: includes/common/class-wpcmtt-lov.php:56
+#: includes/common/class-wpcmtt-lov.php:77
+#: includes/backend/cmb2/includes/CMB2_JS.php:166
+msgid "Default"
+msgstr "По умолчанию"
+
+# @ cmb2
+# @ default
+#: includes/backend/tooltip-selectors/class-wpcmtt-grid-columns.php:136
+#: includes/common/class-wpcmtt-init.php:67
+#: includes/backend/cmb2/example-functions.php:522
+msgid "Description"
+msgstr "Описание"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:214
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:231
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:286
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:357
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:366
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:382
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:468
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:526
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:544
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:248
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:303
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:414
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:423
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:439
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:525
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:583
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:601
+msgid "Disabled"
+msgstr "Отключено"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/class-wpcmtt-lov.php:13
+msgid "Dotted"
+msgstr "Точечный пунктир"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/class-wpcmtt-lov.php:15
+msgid "Double"
+msgstr "Двойная"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/tooltip-selectors/class-wpcmtt-grid-columns.php:212
+msgid "Edit Style"
+msgstr "Изменить стиль"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/wpcmtt-helpers.php:31
+msgid "Edit Tooltip"
+msgstr "Редактировать подсказку"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/wpcmtt-helpers.php:52
+msgid "Edit Tooltip Style"
+msgstr "Изменить стиль всплывающей подсказки"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:214
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:231
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:286
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:357
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:366
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:382
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:468
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:526
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:544
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:248
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:303
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:414
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:423
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:439
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:525
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:583
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:601
+msgid "Enabled"
+msgstr "Включено"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/class-wpcmtt-init.php:68
+msgid "Enter a short description for your tooltip in order to find it easier on the backend."
+msgstr "Введите краткое описание для вашей подсказки."
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:558
+#: includes/common/class-wpcmtt-init.php:184
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:605
+msgid "Enter latitude, eg. 39.074208. To find the latitude and longitude of a point you can go <a href=\"http://itouchmap.com/latlong.html\" target=\"_blank\">here</a>."
+msgstr "Введите широту, например. 39.074208. Чтобы найти широту и долготу точки вы можете перейти <a href=\"http://itouchmap.com/latlong.html\" target=\"_blank\">сюда</a>."
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:569
+#: includes/common/class-wpcmtt-init.php:195
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:616
+msgid "Enter longitude, eg. 39.074208."
+msgstr "Введите долготу, например. 39.074208."
+
+# @ wordpress-tooltips-ultimate
+#: includes/frontend/class-wpcmtt-live-tooltip.php:147
+#: includes/frontend/class-wpcmtt-live-tooltip.php:157
+msgid "error"
+msgstr "ошибка"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:374
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:431
+msgid "Event"
+msgstr "Событие"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:327
+#: includes/common/class-wpcmtt-lov.php:117
+#: includes/common/class-wpcmtt-lov.php:133
+msgid "Fade"
+msgstr "Выцветание"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/class-wpcmtt-lov.php:118
+#: includes/common/class-wpcmtt-lov.php:134
+msgid "Fade Down"
+msgstr "Затемнение внизу"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/class-wpcmtt-lov.php:119
+#: includes/common/class-wpcmtt-lov.php:135
+msgid "Fade Left"
+msgstr "Затемнение слева"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/class-wpcmtt-lov.php:120
+#: includes/common/class-wpcmtt-lov.php:136
+msgid "Fade Right"
+msgstr "Затемнение справа"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/class-wpcmtt-lov.php:121
+#: includes/common/class-wpcmtt-lov.php:137
+msgid "Fade Up"
+msgstr "Затемнение сверху"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/class-wpcmtt-lov.php:123
+msgid "Flip X"
+msgstr "Отражение по горизонтали"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/class-wpcmtt-lov.php:124
+msgid "Flip X Up"
+msgstr "Отражение по горизонтали"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/class-wpcmtt-lov.php:125
+msgid "Flip Y"
+msgstr "Отражение по вертикали"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/class-wpcmtt-lov.php:126
+msgid "Flip Y Up"
+msgstr "Отражение по горизонтали"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:378
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:435
+msgid "Follow Mouse"
+msgstr "При наведении курсора"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:176
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:184
+msgid "Font awesome icon"
+msgstr "Иконка-шрифт"
+
+# @ default
+#: includes/backend/customize-tooltip-style/class-wpcmtt-renderers.php:296
+msgid "Font Family"
+msgstr "Название шрифта"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/customize-tooltip-style/class-wpcmtt-renderers.php:323
+msgid "Font Subsets"
+msgstr "Подгруппа шрифтов"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/customize-tooltip-style/class-wpcmtt-renderers.php:309
+msgid "Font Variants"
+msgstr "Варианты шрифтов"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/class-wpcmtt-init.php:51
+msgid "Frontend"
+msgstr "На сайте"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/tooltip-selectors/class-wpcmtt-grid-columns.php:140
+msgid "Frontend / Backend"
+msgstr "На сайте / В админке"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/class-wpcmtt-init.php:53
+msgid "Frontend inline"
+msgstr "Внутри на сайте"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/class-wpcmtt-init.php:46
+msgid "Frontend or backend?"
+msgstr "На сайте или в админке?"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:467
+#: includes/common/class-wpcmtt-init.php:93
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:401
+msgid "Google Map"
+msgstr "Карта Google"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:462
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:463
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:519
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:520
+msgid "Google Maps"
+msgstr "Карты Google"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/class-wpcmtt-lov.php:16
+msgid "Groove"
+msgstr "Вдавленная линия"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:481
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:530
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:538
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:587
+msgid "Height"
+msgstr "Высота"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/class-wpcmtt-lov.php:59
+msgid "Help"
+msgstr "Помощь"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/class-wpcmtt-lov.php:21
+msgid "Hidden"
+msgstr "Скрыто"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:406
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:463
+msgid "Hide Animation"
+msgstr "Анимация закрывания"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:414
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:471
+msgid "Hide Animation Time (in ms)"
+msgstr "Время анимации закрывания (в мс)"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:338
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:394
+msgid "Hide Delay (in ms)"
+msgstr "Скрыть подсказку через определенное время (в мс)"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:330
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:386
+msgid "Hide on"
+msgstr "Скрыть"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:353
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:410
+msgid "Hide Other Tooltips When Showing"
+msgstr "Скрыть другие подсказки при показе"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:345
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:402
+msgid "Hide When Inactive Time (in ms)"
+msgstr "Скрыть, если курсор неактивен (в мс)"
+
+# @ wordpress-tooltips-ultimate
+#: includes/frontend/class-wpcmtt-live-tooltip.php:175
+#: includes/frontend/class-wpcmtt-live-tooltip.php:185
+msgid "Highlight Tooltips"
+msgstr "Выделить подсказки"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:361
+msgid "Horizontal Hotspot Pin Position (%)"
+msgstr "Горизонтальная позиция маркера (%)"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:198
+msgid "Hotspot Image"
+msgstr "Маркер"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:320
+msgid "Hotspot Pin Animation"
+msgstr "Анимация маркера"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:337
+msgid "Hotspot Pin Position"
+msgstr "Положение маркера"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:411
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:433
+msgid "Hotspot Tooltip {#}"
+msgstr "Всплывающая подсказка маркера"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:190
+msgid "Hotspot Type"
+msgstr "Тип маркера"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:319
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:375
+msgid "Hover"
+msgstr "При наведении"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/customize-tooltip-style/class-wpcmtt-customize-tooltip-style.php:240
+msgid "HOVER ME FOR LIVE PREVIEW"
+msgstr "Наведите на меня для онлайн просмотра"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:334
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:390
+msgid "Hover out"
+msgstr "При наведении курсора"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:468
+#: includes/common/class-wpcmtt-init.php:94
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:403
+msgid "HTML"
+msgstr "HTML"
+
+# @ cmb2
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+#. translators: plugin header field 'PluginURI'
+#. translators: plugin header field 'AuthorURI'
+#: wordpress-tooltips-ultimate.php:0
+msgid "https://themeforest.net/user/codemine"
+msgstr "https://themeforest.net/user/codemine"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:252
+msgid "Icon"
+msgstr "Иконка"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:263
+msgid "Icon Color"
+msgstr "Цвет иконки"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:275
+msgid "Icon Size"
+msgstr "Размер иконки"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:290
+msgid "Icon Size Smartphones (px)"
+msgstr "Размер иконки на смартфонах (px)"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:310
+msgid "Icon Size Tablets Landscape (px)"
+msgstr "Размер иконки на планшетах в горизонтальной ориентации (px)"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:300
+msgid "Icon Size Tablets Portrait(px)"
+msgstr "Размер иконки на планшетах в портретной ориентации (px)"
+
+# @ wordpress-tooltips-ultimate
+# @ default
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:149
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:463
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:482
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:506
+#: includes/common/class-wpcmtt-init.php:89
+#: includes/common/class-wpcmtt-init.php:108
+#: includes/common/class-wpcmtt-init.php:132
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:393
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:521
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:547
+msgid "Image"
+msgstr "Изображение"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:440
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:497
+msgid "Image Horizontal Position"
+msgstr "Горизонтальное положение изображения"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:81
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:82
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:83
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:87
+msgid "Image Hotspot"
+msgstr "Изображения с маркерами"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:391
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:413
+msgid "Image Hotspots "
+msgstr "Изображения с маркерами "
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:144
+msgid "Image Hotspots Global Settings"
+msgstr "Глобальные настройки изображения с маркером"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:34
+msgid "Image Hotspots Shortcode"
+msgstr "Шорткод изображения с маркерами"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:527
+#: includes/common/class-wpcmtt-init.php:153
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:568
+msgid "Image on bottom & text on top"
+msgstr "Изображение внизу & текст сверху"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:528
+#: includes/common/class-wpcmtt-init.php:154
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:569
+msgid "Image on left & text on right"
+msgstr "Изображение слева & текст справа"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:526
+#: includes/common/class-wpcmtt-init.php:152
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:567
+msgid "Image on right & text on left"
+msgstr "Изображение справа & текст слева"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:525
+#: includes/common/class-wpcmtt-init.php:151
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:566
+msgid "Image on top & text on bottom"
+msgstr "Изображение сверху & текст внизу"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:456
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:513
+msgid "Image padding"
+msgstr "Внутренний отступ  изображения"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:448
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:505
+msgid "Image Vertical Position"
+msgstr "Вертикальное положение изображения"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:212
+msgid "Image Width (px)"
+msgstr "Ширина изображения (px)"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:222
+msgid "Image Width Smartphones (px)"
+msgstr "Ширина изображения на смартфонах (px)"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:242
+msgid "Image Width Tablets Landscape (px)"
+msgstr "Ширина изображения на планшетах в горизонтальной ориентации (px)"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:232
+msgid "Image Width Tablets Portrait (px)"
+msgstr "Ширина изображения на планшетах в портретной ориентации (px)"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/class-wpcmtt-lov.php:28
+msgid "Inherit"
+msgstr "Наследовать"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/class-wpcmtt-lov.php:33
+msgid "Initial"
+msgstr "Исходный"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/tooltip-selectors/class-wpcmtt-grid-columns.php:141
+msgid "Inline post"
+msgstr "Внутри записи"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/class-wpcmtt-lov.php:18
+msgid "Inset"
+msgstr "Внутри"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:276
+msgid "Integer numbers only"
+msgstr "Только целые числа"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:314
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:370
+msgid "Interaction"
+msgstr "Взаимодействие"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/class-wpcmtt-lov.php:32
+msgid "Justify"
+msgstr "По ширине"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:556
+#: includes/common/class-wpcmtt-init.php:182
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:603
+msgid "Latitude"
+msgstr "Широта"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:520
+#: includes/common/class-wpcmtt-init.php:146
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:561
+msgid "Layout"
+msgstr "Макет"
+
+# @ cmb2
+#: includes/common/class-wpcmtt-init.php:225
+msgid "Leave blank to skip this rule"
+msgstr "Оставьте пустым, чтобы пропустить это правило"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/class-wpcmtt-lov.php:29
+#: includes/common/class-wpcmtt-lov.php:101
+msgid "Left"
+msgstr "Слева"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:423
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:480
+msgid "Left Column Size (in percentage)"
+msgstr "Размер левой колонки (в процентах)"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:553
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:610
+msgid "Link Font"
+msgstr "Шрифт ссылки"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:554
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:611
+msgid "Link hover color"
+msgstr "Цвет ссылки при наведении"
+
+# @ wordpress-tooltips-ultimate
+#: includes/frontend/class-wpcmtt-live-tooltip.php:166
+#: includes/frontend/class-wpcmtt-live-tooltip.php:176
+msgid "Live Tooltip"
+msgstr "Живой редактор подсказок"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:567
+#: includes/common/class-wpcmtt-init.php:193
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:614
+msgid "Longitude"
+msgstr "Долгота"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/class-wpcmtt-lov.php:71
+msgid "Lowercase"
+msgstr "Нижний регистр"
+
+# @ cmb2
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:66
+msgid "Max Width"
+msgstr "Максимальная ширина"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:349
+msgid "Middle Center"
+msgstr "Посередине по центру"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:348
+msgid "Middle Left"
+msgstr "Посередине слева"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:350
+msgid "Middle Right"
+msgstr "Посередине справа"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:465
+#: includes/common/class-wpcmtt-init.php:91
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:459
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:397
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:516
+msgid "Modal"
+msgstr "Модальное окно"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:374
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:431
+msgid "Mouse"
+msgstr "Курсор мыши"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/wpcmtt-helpers.php:55
+msgid "New Tooltip Style Name"
+msgstr "Название нового стиля подсказки"
+
+# @ cmb2
+# @ wordpress-tooltips-ultimate
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:325
+#: includes/common/class-wpcmtt-lov.php:20
+#: includes/common/class-wpcmtt-lov.php:68
+#: includes/backend/cmb2/includes/CMB2_Field.php:1328
+#: includes/backend/cmb2/includes/CMB2_Field.php:1332
+msgid "None"
+msgstr "Нет"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:423
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:433
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:445
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:455
+msgid "Numbers only"
+msgstr "Только цифры"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/class-wpcmtt-lov.php:19
+msgid "Outset"
+msgstr "Снаружи"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:460
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:517
+msgid "Overlay Background"
+msgstr "Наложение фона"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:491
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:548
+msgid "Pin Image"
+msgstr "Изображение маркера"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/class-wpcmtt-lov.php:57
+msgid "Pointer"
+msgstr "Указатель"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:422
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:444
+msgid "Position x (%)"
+msgstr "Позиция по горизонтали (%)"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:432
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:454
+msgid "Position y (%)"
+msgstr "Позиция по вертикали (%)"
+
+# @ wordpress-tooltips-ultimate
+#: includes/frontend/class-wpcmtt-live-tooltip.php:148
+#: includes/frontend/class-wpcmtt-live-tooltip.php:158
+msgid "Post must be published in order to create tooltip. Publish your post and try again."
+msgstr "Запись должна быть опубликована для создания всплывающей подсказки. Опубликуйте свою запись и попробуйте еще раз."
+
+# @ cmb2
+#: includes/common/class-wpcmtt-init.php:218
+msgid "Posts"
+msgstr "Записи"
+
+# @ default
+#: includes/backend/customize-tooltip-style/class-wpcmtt-customize-tooltip-style.php:149
+msgid "Preview"
+msgstr "Предпросмотр"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:326
+msgid "Pulse"
+msgstr "Пульсация"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:413
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:435
+msgid "Remove Hotspot Tooltip"
+msgstr "Удалить подсказку"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/class-wpcmtt-lov.php:132
+msgid "Reverse initial animation"
+msgstr "Обратное направление анимации"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/class-wpcmtt-lov.php:17
+msgid "Ridge"
+msgstr "Выпуклая линия"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/class-wpcmtt-lov.php:30
+#: includes/common/class-wpcmtt-lov.php:103
+msgid "Right"
+msgstr "Справа"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/wpcmtt-helpers.php:50
+msgid "Search Tooltip Styles"
+msgstr "Поиск стиля подсказки"
+
+# @ wordpress-tooltips-ultimate
+#: includes/frontend/class-wpcmtt-live-tooltip.php:149
+#: includes/frontend/class-wpcmtt-live-tooltip.php:159
+msgid "Select a word/phrase to insert tooltip."
+msgstr "Выберите слово/фразу для вставки всплывающей подсказки."
+
+# @ cmb2
+#: includes/common/class-wpcmtt-init.php:220
+msgid "Select where you want to render the tooltip."
+msgstr "Выберите, где вы хотите отобразить всплывающую подсказку."
+
+# @ default
+#: includes/backend/customize-tooltip-style/class-wpcmtt-customize-tooltip-style.php:144
+msgid "Settings"
+msgstr "Настройки"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/class-wpcmtt-lov.php:78
+msgid "Sharp"
+msgstr "Резкий"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:121
+msgid "Shortcode"
+msgstr "Шорткод"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:391
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:448
+msgid "Show Animation"
+msgstr "Показать анимацию"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:399
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:456
+msgid "Show Animation Time (in ms)"
+msgstr "Показать время анимации (в мс)"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:323
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:379
+msgid "Show Delay (in ms)"
+msgstr "Показать задержку (в мс)"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:315
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:371
+msgid "Show on"
+msgstr "Отображать"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:462
+#: includes/common/class-wpcmtt-init.php:88
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:391
+msgid "Simple Text"
+msgstr "Простой текст"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:510
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:567
+msgid "Snazzy Maps Code"
+msgstr "Код Snazzy Maps"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/class-wpcmtt-lov.php:12
+msgid "Solid"
+msgstr "Сплошная линия"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:361
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:418
+msgid "Stay visible when mousing on tooltip"
+msgstr "Будет видимым при наведении указателя мыши на подсказку"
+
+# @ default
+#: includes/backend/tooltip-selectors/class-wpcmtt-grid-columns.php:143
+#: includes/common/class-wpcmtt-init.php:73
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:58
+msgid "Style"
+msgstr "Стиль"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:120
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:137
+msgid "Svg Text Vertical Align"
+msgstr "Выравнивание вертикальное текста Svg"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:111
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:128
+msgid "Svg Width Mode"
+msgstr "Режим ширины Svg"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:370
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:427
+msgid "Target"
+msgstr "Метод открытия ссылки"
+
+# @ wordpress-tooltips-ultimate
+# @ default
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:472
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:496
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:536
+#: includes/common/class-wpcmtt-init.php:98
+#: includes/common/class-wpcmtt-init.php:122
+#: includes/common/class-wpcmtt-init.php:162
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:509
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:537
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:579
+msgid "Text"
+msgstr "Текст"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:464
+#: includes/common/class-wpcmtt-init.php:90
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:422
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:395
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:479
+msgid "Text & Image"
+msgstr "Текст и изображение"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/customize-tooltip-style/class-wpcmtt-renderers.php:261
+msgid "Text Align"
+msgstr "Выравнивание текста"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:457
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:514
+msgid "Text padding"
+msgstr "Внутренний отступ текста"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/customize-tooltip-style/class-wpcmtt-renderers.php:266
+msgid "Text Transform"
+msgstr "Преобразование шрифта"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:30
+msgid "Themes"
+msgstr "Темы"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:346
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:403
+msgid "Time in milliseconds in which the tooltip should be hidden if it remains inactive e.g. is not interacted with. If set to 0, tooltip will not hide when inactive."
+msgstr "Время в миллисекундах, в течение которого всплывающая подсказка должна быть скрыта, если она остается неактивной. Если установлено значение 0, всплывающая подсказка не скроется, когда она неактивна."
+
+# @ default
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:120
+msgid "Title"
+msgstr "Название"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/wpcmtt-helpers.php:28
+msgid "Tooltip"
+msgstr "Всплывающая подсказка"
+
+# @ wordpress-tooltips-ultimate
+#: includes/frontend/class-wpcmtt-live-tooltip.php:150
+#: includes/frontend/class-wpcmtt-live-tooltip.php:160
+msgid "Tooltip already exists."
+msgstr "Всплывающая подсказка уже существует."
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:130
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:172
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:147
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:189
+msgid "Tooltip Background"
+msgstr "Фон подсказки"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:154
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:171
+msgid "Tooltip Background opacity"
+msgstr "Прозрачность фона подсказки"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:209
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:226
+msgid "Tooltip Borders"
+msgstr "Рамки всплывающих подсказок"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:210
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:227
+msgid "Tooltip Drop Shadow"
+msgstr "Падающая тень для подсказки"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:197
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:214
+msgid "Tooltip Font"
+msgstr "Шрифт подсказки"
+
+# @ wordpress-tooltips-ultimate
+#: includes/frontend/class-wpcmtt-live-tooltip.php:151
+#: includes/frontend/class-wpcmtt-live-tooltip.php:161
+msgid "Tooltip is not translated. You must translate the tooltip in order to edit it."
+msgstr "Подсказка не переведена. Вы должны перевести подсказку, чтобы отредактировать ее."
+
+# @ wordpress-tooltips-ultimate
+#: includes/frontend/class-wpcmtt-live-tooltip.php:152
+#: includes/frontend/class-wpcmtt-live-tooltip.php:162
+msgid "Tooltip not exists. Delete and recreate tooltip."
+msgstr "Всплывающая подсказка уже существует. Удалите и воссоздайте всплывающую подсказку."
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/class-wpcmtt-init.php:38
+msgid "Tooltip options"
+msgstr "Настройки подсказки"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:207
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:208
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:224
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:225
+msgid "Tooltip Padding"
+msgstr "Внутренний отступ для подсказки"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:218
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:235
+msgid "Tooltip Position"
+msgstr "Положение подсказки"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:50
+msgid "Tooltip Settings"
+msgstr "Настройки подсказки"
+
+# @ wordpress-tooltips-ultimate
+#: includes/frontend/class-wpcmtt-live-tooltip.php:153
+#: includes/frontend/class-wpcmtt-live-tooltip.php:163
+msgid "Tooltip status is not published."
+msgstr "Статус подсказки не опубликован."
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:196
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:213
+msgid "Tooltip Stroke"
+msgstr "Полосатая подсказка"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/wpcmtt-helpers.php:49
+msgid "Tooltip Style"
+msgstr "Стиль подсказки"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/customize-tooltip-style/class-wpcmtt-customize-tooltip-style.php:140
+msgid "Tooltip Style:"
+msgstr "Стиль подсказки:"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/wpcmtt-helpers.php:48 includes/common/wpcmtt-helpers.php:56
+msgid "Tooltip Styles"
+msgstr "Стили подсказок"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:57
+msgid "Tooltip Styling"
+msgstr "Стиль подсказки"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/wpcmtt-helpers.php:27
+msgid "Tooltips"
+msgstr "Всплывающие подсказки"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/class-wpcmtt-lov.php:109
+msgid "Top"
+msgstr "Сверху"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:343
+#: includes/common/class-wpcmtt-lov.php:88
+msgid "Top Center"
+msgstr "Сверху по центру"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:342
+#: includes/common/class-wpcmtt-lov.php:87
+msgid "Top Left"
+msgstr "Сверху слева"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:344
+#: includes/common/class-wpcmtt-lov.php:89
+msgid "Top Right"
+msgstr "Сверху справа"
+
+# @ wordpress-tooltips-ultimate
+# @ default
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:457
+#: includes/backend/tooltip-selectors/class-wpcmtt-grid-columns.php:144
+#: includes/common/class-wpcmtt-init.php:83
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:499
+msgid "Type"
+msgstr "Тип"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/wpcmtt-helpers.php:53
+msgid "Update Tooltip Style"
+msgstr "Обновление стиля подсказки"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:483
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:507
+#: includes/common/class-wpcmtt-init.php:109
+#: includes/common/class-wpcmtt-init.php:133
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:522
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:548
+msgid "Upload an image or enter an URL."
+msgstr "Загрузите изображение или введите URL изображения."
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/class-wpcmtt-lov.php:70
+msgid "Uppercase"
+msgstr "Верхний регистр"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:373
+msgid "Vertical Hotspot Pin Position (%)"
+msgstr "Вертикальная позиция маркера (%)"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:466
+#: includes/common/class-wpcmtt-init.php:92
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:399
+msgid "Video"
+msgstr "Видео"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:546
+#: includes/common/class-wpcmtt-init.php:172
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:591
+msgid "Video URL"
+msgstr "Ссылка на видео"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:521
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:522
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:578
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:579
+msgid "Videos"
+msgstr "Видео"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/wpcmtt-helpers.php:32
+msgid "View Tooltip"
+msgstr "Просмотр подсказки"
+
+# @ cmb2
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:85
+msgid "Width"
+msgstr "Ширина"
+
+# @ cmb2
+#. Plugin Name of the plugin/theme
+#. translators: plugin header field 'Name'
+#: wordpress-tooltips-ultimate.php:0
+msgid "WordPress Tooltips Ultimate"
+msgstr "WordPress Tooltips Ultimate"
+
+# @ wordpress-tooltips-ultimate
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:578
+#: includes/common/class-wpcmtt-init.php:204
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:627
+msgid "WYSIWYG Text"
+msgstr "Визуальный редактор"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/class-wpcmtt-lov.php:122
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:500
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:557
+msgid "Zoom"
+msgstr "Увеличение"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/class-wpcmtt-lov.php:61
+msgid "Zoom In"
+msgstr "Приближение"
+
+# @ cmb2
+#: includes/backend/cmb2/includes/CMB2_JS.php:165
+#: includes/backend/cmb2/includes/CMB2_JS.php:208
+msgid "Clear"
+msgstr "Очистить"
+
+# @ cmb2
+#: includes/backend/cmb2/includes/CMB2_JS.php:167
+msgid "Select Color"
+msgstr "Выбрать цвет"
+
+# @ cmb2
+#: includes/backend/cmb2/includes/CMB2_JS.php:168
+msgid "Current Color"
+msgstr "Текущий цвет"
+
+# @ cmb2
+#: includes/backend/cmb2/includes/CMB2_JS.php:226
+#: includes/backend/cmb2/includes/types/CMB2_Type_File_Base.php:64
+msgid "Remove Image"
+msgstr "Удалить изображение"
+
+# @ cmb2
+#: includes/backend/cmb2/includes/CMB2_JS.php:227
+#: includes/backend/cmb2/includes/CMB2_Types.php:412
+#: includes/backend/cmb2/includes/types/CMB2_Type_File_Base.php:84
+msgid "Remove"
+msgstr "Удалить"
+
+# @ cmb2
+#: includes/backend/cmb2/includes/CMB2_JS.php:229
+#: includes/backend/cmb2/includes/types/CMB2_Type_File_Base.php:82
+msgid "Download"
+msgstr "Скачать"
+
+# @ cmb2
+#: includes/backend/cmb2/includes/CMB2_JS.php:230
+msgid "Select / Deselect All"
+msgstr "Выбрать / отменить все"
+
+# @ cmb2
+#. translators: plugin header field 'AuthorURI'
+#: includes/backend/cmb2/init.php:0
+msgid "https://cmb2.io"
+msgstr "https://cmb2.io"
+
+# @ cmb2
+#. translators: plugin header field 'Version'
+#: includes/backend/cmb2/init.php:0
+msgid "2.4.2"
+msgstr "2.4.2"
+
+# @ cmb
+#: includes/backend/cmb2-attached-posts/init.php:123
+#, php-format
+msgid "Filter %s"
+msgstr "Фильтр %s"
+
+# @ cmb
+#: includes/backend/cmb2-attached-posts/init.php:141
+#, php-format
+msgid "Available %s"
+msgstr "Доступные %s"
+
+# @ default
+#: includes/backend/cmb2-attached-posts/init.php:161
+msgid "Search"
+msgstr "Поиск"
+
+# @ default
+#: includes/backend/cmb2-attached-posts/init.php:167
+msgid "An error has occurred. Please reload the page and try again."
+msgstr "Произошла ошибка. Пожалуйста, обновите страницу и попробуйте еще раз."
+
+# @ default
+#: includes/backend/cmb2-attached-posts/init.php:168
+msgid "Find Posts or Pages"
+msgstr "Найти записи или страницы"
+
+# @ default
+#: includes/backend/cmb2-attached-posts/init.php:289
+msgid "Edit"
+msgstr "Редактировать"
+
+# @ default
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:79
+msgctxt "Post Type General Name"
+msgid "Image Hotspot"
+msgstr "Изображение с маркерами"
+
+# @ default
+#: includes/backend/hotspots/class-wpcmtt-hotspots.php:80
+msgctxt "Post Type Singular Name"
+msgid "Image Hotspot"
+msgstr "Изображение с маркерами"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/class-wpcmtt-init.php:218
+msgid "Post IDs"
+msgstr "ID записей"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/class-wpcmtt-init.php:219
+msgid "Enter the post IDs where you want the tooltip to be rendered (eg. 178, 245)."
+msgstr "Укажите ID записей, в которых вы хотите отображать всплывающие подсказки (напр.: 178, 245)"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/instructions/class-wpcmtt-instructions.php:37
+msgid "To create a tooltip or hotspot, you must first create a tooltip style. "
+msgstr "Чтобы создать всплывающую подсказку или изображение с маркером, необходимо сначала создать стиль всплывающей подсказки."
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/instructions/class-wpcmtt-instructions.php:38
+msgid "A tooltip style is a collection of settings that define the way the tooltip appears."
+msgstr "Стиль подсказки - это набор настроек, определяющих способ отображения подсказки."
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/instructions/class-wpcmtt-instructions.php:40
+msgid "To do so click "
+msgstr "Для этого нажмите кнопку "
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/instructions/class-wpcmtt-instructions.php:40
+msgid "here"
+msgstr "здесь"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/instructions/class-wpcmtt-instructions.php:42
+msgid "After you create your style, click the 'Edit Style' button on the right column, right next to the style in order to customize it."
+msgstr "После создания стиля, нажмите кнопку \"Редактировать стиль\" в правой колонке, прямо рядом со стилем, чтобы настроить его."
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:66
+msgid "Max Width (px)"
+msgstr "Максимальная ширина (px)"
+
+# @ default
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:85
+msgid "Width (px)"
+msgstr "Ширина (px)"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:103
+msgid "Max Height (px)"
+msgstr "Максимальная высота (px)"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:312
+msgid "Close Button Size (px)"
+msgstr "Размер кнопки Закрыть (px)"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:331
+msgid "Close Button Padding (px)"
+msgstr "Внутренний отступ кнопки Закрыть (px)"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:341
+msgid "Right-to-left Mode"
+msgstr "Режим справа-налево"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:346
+msgid "Left-to-right"
+msgstr "Слева на право"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:347
+msgid "Right-to-left"
+msgstr "Справа на лево"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:375
+msgid "Focus"
+msgstr "Фокус"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:375
+msgid "Click or focus"
+msgstr "Клик или фокус"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:375
+msgid "Page load"
+msgstr "Загрузка страницы"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:390
+msgid "Focus out"
+msgstr "Фокус вне"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:397
+msgid "Make sure that it is greater or equal then show delay time"
+msgstr "Убедитесь, что она больше или равна, чем время задержки"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:421
+msgid "Add a hide delay when this is enabled to give the user time to mouseover the tooltip before hiding"
+msgstr "Добавить задержку скрытия, когда она включена, чтобы дать пользователю время навести указатель мыши на подсказку перед скрытием"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:614
+msgid "Smartphones Max Width (px)"
+msgstr "Максимальная ширина смартфона (px)"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:620
+msgid "Tablets Portrait Max Width (px)"
+msgstr "Максимальная ширина планшета в портретной ориентации (px)"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:626
+msgid "Tablets Landscape Max Width (px)"
+msgstr "Максимальная ширина планшета в книжной ориентации (px)"
+
+# @ wordpress-tooltips-ultimate
+#: includes/common/tooltip-styles/class-wpcmtt-customizer-settings.php:634
+msgid "Enter your custom CSS here"
+msgstr "Введите свой собственный CSS здесь"
+
+# @ cmb2
+#. translators: plugin header field 'Version'
+#: wordpress-tooltips-ultimate.php:0
+msgid "2.27"
+msgstr "2.27"
