@@ -22,3 +22,5 @@ wordpress-tooltips-ultimate-ru_RU.mo (это основной файл руси�
 
 ## Примечание
 После обновления плагина повторять эти шаги не нужно.
+
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://sitex.me/standwithukraine)
